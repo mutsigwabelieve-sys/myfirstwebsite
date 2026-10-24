@@ -1,2 +1,3 @@
 # myfirstwebsite
-it is for demonstration of Git ang GitHub
+It is for demonstration of Git ang GitHub
+Practising
